@@ -1,1 +1,1 @@
-Simple news app
+Simple news app using react
